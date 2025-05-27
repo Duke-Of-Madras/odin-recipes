@@ -1,0 +1,16 @@
+
+
+
+.main{
+    background-color: green;
+    color:whitesmoke;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.hello{
+    text-align: center;
+    border: 20px solid green;
+    margin:10px;
+    font-size: 30px;
+}
